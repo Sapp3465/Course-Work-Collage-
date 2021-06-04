@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Collage
+
+  Created by Artem Myshkin on 5/29/21.
+  
+*/
+"NEW_COLLAGE_CREATE" = "Новий колаж!";
+"CREATE_COLLAGE" = "Створити!";
+"SHARED_PHOTOS" = "Спільні фото";
